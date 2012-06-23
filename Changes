@@ -1,5 +1,9 @@
 Revision history for Math-Fractal-Julia.
 
+0.000003 2012-06-23
+    - Improved documentation
+    - Added minimum Perl version requirement
+
 0.000002 2012-06-20
     - Removed Perl version requirement
     - Added pod coverage tests

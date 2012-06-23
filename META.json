@@ -4,7 +4,7 @@
       "Jeffrey T. Palmer <jtpalmer@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300019, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 4.300020, CPAN::Meta::Converter version 2.120630",
    "license" : [
       "perl_5"
    ],
@@ -22,6 +22,7 @@
       "runtime" : {
          "requires" : {
             "XSLoader" : "0",
+            "perl" : "5.006",
             "strict" : "0",
             "warnings" : "0"
          }
@@ -32,7 +33,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
          "web" : "https://github.com/jtpalmer/Math-Fractal-Julia/issues"
@@ -44,6 +45,6 @@
          "web" : "https://github.com/jtpalmer/Math-Fractal-Julia"
       }
    },
-   "version" : "0.000002"
+   "version" : "0.000003"
 }
 
